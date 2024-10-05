@@ -1,0 +1,78 @@
+baseURL = "https://example.com/"
+languageCode = "en"
+title = "Initio - Free, multipurpose html5 template by GetTemplate"
+theme = "hugo-initio"
+
+[params]
+    name = "Sandra Dindi"
+    description = "Technical writer and Web developer"
+    email = "sadindi03@gmail.com"
+    address = "Nairobi,Kenya"
+    year = 2024
+    avatar = "images/sandrapic.jpg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/newbackground.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "October 2, 2024"
+    author = "Sergey Pozhilov (GetTemplate.com)"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = false
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = ""
+
+
+[[params.social]]
+	title = "twitter"
+	url = "https://x.com/Nyartech_"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/sandra-dindi/   "
+    icon = "fab fa-linkedin"
+    footer = true
+    sharethis = true
+    network = "linkedin"
+
+[[params.social]]
+	title = "github"
+	url = "https://github.com/Dindihub"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = true
+    network = "github"
+[[params.social]]
+	title = "email"
+	url = "mailto:sadindi03@gmail.com"
+    icon = "fas fa-envelope-square"
+    footer = true
+    sharethis = true
+    network = "email"
+
