@@ -3,7 +3,7 @@ title = "Open-Source "
 weight = 6
 +++
 
-![service6](/images/AsyncAPI.png)
+![AsyncApi logo](/static/images/AsyncAPI.png)
 
 
 My first open-source project contribution was at the AsyncAPI.I collaborated with the community to transcribe video content to create contribution guidelines for new users. 

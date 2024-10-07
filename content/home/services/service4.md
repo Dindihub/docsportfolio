@@ -3,7 +3,7 @@ title = "Blog posts"
 weight = 1
 +++
 
-![service4](/images/blogpic.jpg)
+![blog pic](/static/images/blogpic.jpg)
 
 I have a collection of Blogs from serveral websites. This is one from the Make Use Of (MUO) website. It's a knowledge-based article about [Docker best practises](https://www.makeuseof.com/docker-best-practices/) that every developer should look out for. 
 
