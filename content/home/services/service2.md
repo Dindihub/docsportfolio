@@ -3,7 +3,7 @@ title = "User guide"
 weight = 2
 +++
 
-![How-to-guide](/static/images/create-waitlist.jpg)
+![How-to-guide](/images/create-waitlist.jpg)
 
 A user guide I wrote for [Earlyaccesshq.com](https://www.earlyaccesshq.com/resources/guide/how-to-create-a-waitlist-page). It makes it easier for users to optimize the product's advanced features to create a wailist tailored for business and marketing campaigns. 
 

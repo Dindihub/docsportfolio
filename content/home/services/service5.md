@@ -3,7 +3,7 @@ title = "Doc Analysis"
 weight = 5
 +++
 
-![cncf logo](/static/images/cncf-color.png)
+![cncf logo](/images/cncf-color.png)
 
 This [project](https://github.com/Dindihub/TUF-docs-analysis/tree/main/analyses/0012-TUF) was part of the Linux Foundation mentorship program from June-August 2024.It included analyzing [The Update Framework](https://theupdateframework.io/) (TUF) documentation and providing improvement according to the CNCF standards. 
 

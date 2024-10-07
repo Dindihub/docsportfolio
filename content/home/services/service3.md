@@ -3,7 +3,7 @@ title = "Tutorial"
 weight = 5
 +++
 
-![Devops pic](/static/images/devops.jpg)
+![Devops pic](/images/devops.jpg)
 
 A tutorial on the [SemaText glossary page](https://sematext.com/glossary/kubernetes-quality-of-service-classes/) for Kubernetes beginners. 
 
