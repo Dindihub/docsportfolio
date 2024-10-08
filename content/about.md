@@ -7,7 +7,7 @@ weight = 2
 +++
 
 
-I am a passionate Technologist and Technical writer with a background in Software development.
+I am a Technical writer with a background in Web development.  
 
 I understand technical concepts and procedures and enjoy writing user-facing documentation that improves user experience with technical products. 
 
