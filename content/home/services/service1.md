@@ -6,7 +6,7 @@ weight= 1
 
 
 
-![GitHub actions](/images/git1.jpg)
+
 
 
 This is a [How-to-guide](https://nyartech.hashnode.dev/create-a-cicd-process-with-github-actions) on how to use Git Actions in DevOps processes to manage modern, cloud-native applications requiring fast and frequent updates.
